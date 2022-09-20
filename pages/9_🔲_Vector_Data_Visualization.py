@@ -50,7 +50,7 @@ def app():
 
         url = st.text_input(
             "Enter a URL to a vector dataset",
-            "https://raw.githubusercontent.com/Shahnab/vectordatavisualizer/main/Vector_Data/HCMC_KML.kml",
+            "https://github.com/Shahnab/vectordatavisualizer/blob/main/Vector_Data/HCMC.kml",
         )
 
         data = st.file_uploader(
