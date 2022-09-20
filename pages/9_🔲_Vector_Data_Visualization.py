@@ -27,7 +27,7 @@ def save_uploaded_file(file_content, file_name):
 
 def app():
 
-    st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
+    #st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
     st.title("GeoSpatial- Vector Data Visualizer")
     st.sidebar.markdown("Demo vector files- [link](https://drive.google.com/drive/folders/1Xszor8e8C9doVN21io6eLyJqrJkiKtm6?usp=sharing)")
 
